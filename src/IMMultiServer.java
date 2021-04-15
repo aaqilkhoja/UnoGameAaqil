@@ -10,7 +10,6 @@ public class IMMultiServer {
           //  System.exit(1);
         //}
 
-        //FUCK
 
         //retrieve port number from command line argument
         int portNumber = 4444;
